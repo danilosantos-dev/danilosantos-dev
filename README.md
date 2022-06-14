@@ -1,7 +1,7 @@
 ### Olá, me chamo Danilo Santos! 👋
 
 - 💬 Ajuda é sempre bem vinda!
-- 😄 Dev em aprendizado..1°Modulo.
+- 😄 Dev em aprendizado..
 - ⚡ Em busca da primeira vaga.
 <div align="center">
   <a href="https://github.com/danilosantos-dev">
