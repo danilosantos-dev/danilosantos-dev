@@ -1,8 +1,6 @@
 ### Olá, me chamo Danilo Santos! 👋
 
-- 💬 Ajuda é sempre bem vinda!
-- 😄 Dev em aprendizado..
-- ⚡ Em busca da primeira vaga.
+
 <div align="center">
   <a href="https://github.com/danilosantos-dev">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danilosantos-dev&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
