@@ -8,7 +8,7 @@ Olá, tenho 19 anos, nunca trabalhei na area de tecnologia mas procuro obter exp
  * No momento, estou estudando JavaScript e TypeScript 😮‍💨
  * Estou procurando uma oportunidade de entrar no mercado de Desenvolvimento de SoftWare 🙃
  
- <hr>
+ **Tecnologias e ferramentas:**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Danilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
