@@ -2,11 +2,11 @@
 
 Olá, tenho 19 anos, nunca trabalhei na area de tecnologia mas procuro obter experiencia prévia atraves de meus projetos e estudos, procuro evoluir todos os dias e sempre levar aprendizado das minhas experiencias sejam elas boas ou ruins. 
 
-**Um pouco sobre minha fase atual: **
+**Um pouco sobre minha fase atual:**
 
- *Atualmente estou cursando Desenvolvimento de Sistemas 🧑‍💻
- *No momento, estou estudando JavaScript e TypeScript 😮‍💨
- *Estou procurando uma oportunidade de entrar no mercado de Desenvolvimento de SoftWare 🙃
+ * Atualmente estou cursando Desenvolvimento de Sistemas 🧑‍💻
+ * No momento, estou estudando JavaScript e TypeScript 😮‍💨
+ * Estou procurando uma oportunidade de entrar no mercado de Desenvolvimento de SoftWare 🙃
  
  <hr>
 
