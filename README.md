@@ -1,8 +1,16 @@
-### Olá, me chamo Danilo Santos! 👋
+### Opaa, me chamo Danilo Santos! 👋
 
+Olá, tenho 19 anos, nunca trabalhei na area de tecnologia mas procuro obter experiencia prévia atraves de meus projetos e estudos, procuro evoluir todos os dias e sempre levar aprendizado das minhas experiencias sejam elas boas ou ruins. 
 
+**Um pouco sobre minha fase atual: **
 
-  <div style="display: inline_block"><br>
+ *Atualmente estou cursando Desenvolvimento de Sistemas 🧑‍💻
+ *No momento, estou estudando JavaScript e TypeScript 😮‍💨
+ *Estou procurando uma oportunidade de entrar no mercado de Desenvolvimento de SoftWare 🙃
+ 
+ <hr>
+
+<div style="display: inline_block"><br>
   <img align="center" alt="Danilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Danilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Danilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -10,10 +18,7 @@
   <img align="center" alt="Danilo-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
   <img align="center" alt="Danilo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Danilo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-          
-                 
- 
-</div>
+    </div>
   
   <hr>
   <div>
