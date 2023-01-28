@@ -1,6 +1,6 @@
 ### Opaa, me chamo Danilo Santos! 👋
 
-Olá, tenho 19 anos, nunca trabalhei na area de tecnologia mas procuro obter experiencia prévia atraves de meus projetos e estudos, procuro evoluir todos os dias e sempre levar aprendizado das minhas experiencias sejam elas boas ou ruins. 
+Olá, tenho 19 anos, nunca trabalhei na area de tecnologia mas procuro obter experiencia prévia atraves de meus projetos e estudos, procuro evoluir todos os dias e sempre levar aprendizado das minhas experiencias. 
 
 **Um pouco sobre minha fase atual:**
 
