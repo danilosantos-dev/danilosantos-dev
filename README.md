@@ -1,11 +1,11 @@
 ### Opaa, me chamo Danilo Santos! 👋
 
-Olá, tenho 19 anos, nunca trabalhei na area de tecnologia mas procuro obter experiencia prévia atraves de meus projetos e estudos, procuro evoluir todos os dias e sempre levar aprendizado das minhas experiencias. 
+Olá, tenho 19 anos, procuro obter experiencia prévia atraves de meus projetos e estudos, procuro evoluir todos os dias e sempre levar aprendizado das minhas experiencias, se tiver alguma dica ou quiser conversar é so entrar em contato que estarei a disposição. 
 
 **Um pouco sobre minha fase atual:**
 
- * Atualmente estou cursando Desenvolvimento de Sistemas 🧑‍💻
- * No momento, estou estudando .NET/C# 😮‍💨
+ * Recentemente me formei em técnico em Desenvolvimento de Sistemas 🧑‍💻
+ * No momento, estou estudando Angualar e Java 😮‍💨
  * Estou procurando uma oportunidade de entrar no mercado de Desenvolvimento de SoftWare 🙃
  
  **Tecnologias e ferramentas:**
