@@ -5,7 +5,7 @@ Olá, tenho 19 anos, procuro obter experiencia prévia atraves de meus projetos 
 **Um pouco sobre minha fase atual:**
 
  * Recentemente me formei em técnico em Desenvolvimento de Sistemas 🧑‍💻
- * No momento, estou estudando Angualar e Java 😮‍💨
+ * No momento, estou estudando Angular e Java 😮‍💨
  * Estou procurando uma oportunidade de entrar no mercado de Desenvolvimento de SoftWare 🙃
  
  **Tecnologias e ferramentas:**
